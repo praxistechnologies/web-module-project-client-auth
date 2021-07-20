@@ -13,7 +13,7 @@ Topics:
 
 ### Task 1: Set Up
 
-#### Initialize Project
+#### Initialize Project - Done
 
 * Run `npm install` inside the root directory of this project to install dependencies for the API server.
 * Run `npm start` to start the API server.
